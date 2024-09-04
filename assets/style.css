@@ -14,6 +14,8 @@ header {
     padding: 15px;
     border-bottom: 5px solid rgb(100, 39, 252);
     font-size: 14px;
+    position: fixed;
+    width: 100%;
 }
 section {
     text-align: center;
@@ -58,9 +60,8 @@ footer {
 }
 .navigation {
     text-align: right;
-
 }
-.main {
+.intro {
     background-color: rgb(224, 242, 244);
     padding: 10px;
     color: grey;
